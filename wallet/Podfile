@@ -1,0 +1,36 @@
+platform :ios, '10.0'
+inhibit_all_warnings!
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+#pre_install do |installer|
+    #def installer.verify_no_static_framework_transitive_dependencies; end
+#end
+
+target 'wallet' do
+
+  #use_frameworks!
+
+  #pod 'SDWebImage'
+
+
+  #pod "RxSwift", '~> 4.4.2'
+  #pod "RxCocoa", '~> 4.4.2'
+
+
+  pod 'AFNetworking'
+  pod 'Geth', '= 1.8.23'
+  pod 'CoreBitcoin', :podspec => 'https://raw.github.com/oleganza/CoreBitcoin/master/CoreBitcoin.podspec', :inhibit_warnings => true
+
+  #pod 'Firebase/Core'
+  #pod 'Firebase/Messaging'
+  #pod 'GzipSwift'
+  #pod 'DataCompression', '~> 3.1.0'
+  #pod 'IgaworksCore'
+  #pod 'AdBrix'
+  #pod 'Fabric', '~> 1.7.7'
+  #pod 'Crashlytics', '~> 3.10.2'
+
+  pod 'UInt256', :git => 'https://github.com/hyu2018/UInt256.git'
+
+end

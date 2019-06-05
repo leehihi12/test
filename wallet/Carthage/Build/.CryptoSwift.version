@@ -1,0 +1,31 @@
+{
+  "Mac" : [
+    {
+      "name" : "CryptoSwift",
+      "hash" : "9c3ef34ed5f135d6ab6adbde92dd40eee0fcc72393fe609a7f09abb9a8534168",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "CryptoSwift",
+      "hash" : "b1417fd71adbec4cf227d8d9ad836450377b62036f6811ae2dcf59fbe4ed4b96",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "CryptoSwift",
+      "hash" : "87ba11648b1033482c5b53a9980bdd9a9460e70455f515b33e0ff2a64e53a2d5",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ],
+  "commitish" : "0.15.0",
+  "iOS" : [
+    {
+      "name" : "CryptoSwift",
+      "hash" : "3a5be36c7afea898457ce4c172578704fcd52ab497bf237465e5ffcd837e0277",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ]
+}

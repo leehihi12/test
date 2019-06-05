@@ -1,0 +1,10 @@
+{
+  "commitish" : "v3.1.0",
+  "iOS" : [
+    {
+      "name" : "BigInt",
+      "hash" : "1a46c56ce9ab5d06b89e2ad3e4295c1af1e163ce5ecf851640352c8859e8e609",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ]
+}
