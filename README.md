@@ -1,1 +1,1 @@
-# CoinUs Wallet Core Module. 
+# CoinUs Wallet Core Module for iOS.
