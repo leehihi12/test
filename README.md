@@ -1,1 +1,1 @@
-# test
+# CoinUs Wallet Core Module. 
