@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:wallet.xcodeproj">
+      location = "group:/Users/imacdev/Project/Wallet_CNUS/wallet/wallet_cnus.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

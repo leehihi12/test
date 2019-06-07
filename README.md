@@ -1,4 +1,4 @@
-# CoinUs Wallet Core Module for iOS.
+# CoinUs Wallet CNUS<->BNUS Module for iOS.
 
 | File Name  | Description |
 |:----------:|-------------|

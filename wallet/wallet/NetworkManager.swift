@@ -379,4 +379,25 @@ class NetworkManager {
         
         task.resume();
     }
+    
+    func getBnusMarketConfig(block:@escaping (JSON,Error?) -> Void){
+        
+        let str_url = "\(self.baseURL)/bnus/market-configs"
+        
+        
+        let task: URLSessionDataTask = AFURLSessionManager().dataTask(with: (NetworkManager.shared.getHeader(url: str_url,
+                                                                                                             method: "GET",
+                                                                                                             parameters: nil) as URLRequest),
+                                                                      uploadProgress: nil,
+                                                                      downloadProgress: nil,
+                                                                      completionHandler: {
+                                                                        (response: URLResponse, result: Any?, error: Error?) -> Void in
+                                                                        if let r = result {
+                                                                            block(JSON(r),error);
+                                                                        }else{
+                                                                            block(JSON([]),error);
+                                                                        }
+        });
+        task.resume();
+    }
 }

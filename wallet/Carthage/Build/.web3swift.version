@@ -1,0 +1,22 @@
+{
+  "commitish" : "2.1.10",
+  "iOS" : [
+    {
+      "name" : "keccak",
+      "hash" : "f65132ff234498746f571c469d3c7ccc0887ab5e098125ca232b25c7c8dffc75"
+    },
+    {
+      "name" : "scrypt",
+      "hash" : "37afd8380b11d4250771c1bda85e49009459e86504fcae387c8b8b433de5d63d"
+    },
+    {
+      "name" : "secp256k1",
+      "hash" : "8d2aa939f66236d3f300aa6ca47c668ba4549003027c1a7f5938cf6aa4757965"
+    },
+    {
+      "name" : "web3swift",
+      "hash" : "30dac4fdb7fd0dbd5c014ceeee4a04212f374c721f0a3e08a54b663b40d97567",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ]
+}

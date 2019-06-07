@@ -78,11 +78,11 @@ _symbolic Si
 _$SSo18NSComparisonResultVSYSCMA
 ___swift_reflection_version
 Apple LLVM version 10.0.0 (clang-1000.11.45.1)
--emit-bc /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Addition.swift /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/BigUInt.swift /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Random.swift "/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Words and Bits.swift" /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/BigInt.swift "/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Prime Test.swift" "/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Floating Point Conversion.swift" /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Hashable.swift /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/GCD.swift "/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Integer Conversion.swift" "/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/String Conversion.swift" /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Division.swift /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Shifts.swift /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Subtraction.swift /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Multiplication.swift /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Strideable.swift "/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Square Root.swift" "/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Data Conversion.swift" /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Comparable.swift /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Codable.swift /Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Exponentiation.swift "/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Bitwise Ops.swift" -supplementary-output-file-map <temporary-file> -target armv7-apple-ios8.0 -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk -I /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/BuildProductsPath/Release-iphoneos -F /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/BuildProductsPath/Release-iphoneos -application-extension -g -module-cache-path /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/ModuleCache.noindex -swift-version 4 -O -D Profile -disable-swift3-objc-inference -serialize-debugging-options -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/BigInt-generated-files.hmap -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/BigInt-own-target-headers.hmap -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/BigInt-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/BigInt-project-headers.hmap -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/DerivedSources/armv7 -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/DerivedSources -Xcc -working-directory/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt -module-name BigInt -num-threads 4 -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Addition.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/BigUInt.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Random.bc -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Words and Bits.bc" -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/BigInt.bc -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Prime Test.bc" -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Floating Point Conversion.bc" -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Hashable.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/GCD.bc -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Integer Conversion.bc" -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/String Conversion.bc" -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Division.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Shifts.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Subtraction.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Multiplication.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Strideable.bc -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Square Root.bc" -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Data Conversion.bc" -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Comparable.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Codable.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Exponentiation.bc -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Bitwise Ops.bc" -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+-emit-bc /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Addition.swift /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/BigUInt.swift /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Random.swift "/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Words and Bits.swift" /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/BigInt.swift "/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Prime Test.swift" "/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Floating Point Conversion.swift" /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Hashable.swift /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/GCD.swift "/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Integer Conversion.swift" "/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/String Conversion.swift" /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Division.swift /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Shifts.swift /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Subtraction.swift /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Multiplication.swift /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Strideable.swift "/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Square Root.swift" "/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Data Conversion.swift" /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Comparable.swift /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Codable.swift /Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Exponentiation.swift "/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Bitwise Ops.swift" -supplementary-output-file-map <temporary-file> -target armv7-apple-ios8.0 -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk -I /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/BuildProductsPath/Release-iphoneos -F /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/BuildProductsPath/Release-iphoneos -application-extension -g -module-cache-path /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/ModuleCache.noindex -swift-version 4 -O -D Profile -disable-swift3-objc-inference -serialize-debugging-options -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/BigInt-generated-files.hmap -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/BigInt-own-target-headers.hmap -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/BigInt-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/BigInt-project-headers.hmap -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/DerivedSources/armv7 -Xcc -I/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/DerivedSources -Xcc -working-directory/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt -module-name BigInt -num-threads 4 -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Addition.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/BigUInt.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Random.bc -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Words and Bits.bc" -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/BigInt.bc -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Prime Test.bc" -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Floating Point Conversion.bc" -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Hashable.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/GCD.bc -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Integer Conversion.bc" -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/String Conversion.bc" -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Division.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Shifts.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Subtraction.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Multiplication.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Strideable.bc -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Square Root.bc" -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Data Conversion.bc" -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Comparable.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Codable.bc -o /Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Exponentiation.bc -o "/Users/imacdev/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/BigInt/v3.1.0/Build/Intermediates.noindex/ArchiveIntermediates/BigInt-iOS/IntermediateBuildFilesPath/BigInt.build/Release-iphoneos/BigInt-iOS.build/Objects-normal/armv7/Bitwise Ops.bc" -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
 <swift-imported-modules>
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt
 Apple Swift version 4.2.1 effective-4.1.50 (swiftlang-1000.11.42 clang-1000.11.45.1)
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Addition.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Addition.swift
 $SSo18NSComparisonResultVSYSCWa
 <compiler-generated>
 $SSo18NSComparisonResultVwui
@@ -96,7 +96,7 @@ $SSo18NSComparisonResultVMa
 $SSo18NSComparisonResultVSQSCWa
 +
 Addition.swift
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources
 adding
 add
 count.get
@@ -320,7 +320,7 @@ _$S6BigInt0A4UIntVSjAAMA
 _symbolic 6BigInt0A4UIntV4KindO
 _$S6BigInt0A4UIntV4KindOMB
 _$S6BigInt0A4UIntV4KindON
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/BigUInt.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/BigUInt.swift
 $Ss16IteratorSequenceVys08IndexingA0Vys10ArraySliceVySuGGGWOs
 $S6BigInt0A4UIntVSgWOb
 $S6BigInt0A4UIntV4KindOwui
@@ -491,7 +491,7 @@ _$S6BigInt0A4UIntVyAC10Foundation4DataVcfCTf4nd_n
 _$S6BigInt0A4UIntV13randomInteger16withMaximumWidthACSi_tFZTf4nd_n
 _$S6BigInt0A4UIntVyAC10Foundation4DataVcfcySRys5UInt8VG_SiSbztXEfU_TA
 _symbolic Su
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Random.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Random.swift
 $S6BigInt0A4UIntVyAC10Foundation4DataVcfcySRys5UInt8VG_SiSbztXEfU_TA
 objectdestroy
 randomInteger
@@ -812,7 +812,7 @@ _$S6BigIntAAV5WordsVSKAAMA
 _symbolic s16IndexingIteratorVy6BigIntACV5WordsVG
 _$S6BigIntAAV5WordsVSlAAMA
 _$S6BigIntAAV5WordsVSTAAMA
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Words and Bits.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Words and Bits.swift
 $Ss5SliceVy6BigInt0B4UIntV5WordsVGWOr
 objectdestroy.12
 $S6BigIntAAV5WordsVWOs
@@ -1126,7 +1126,7 @@ _symbolic ____ 6BigIntAAV
 _$S6BigIntAAVMF
 _$S6BigIntAAVSzAAMA
 _$S6BigIntAAVSjAAMA
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/BigInt.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/BigInt.swift
 $S6BigIntAAVSgWOb
 $S6BigIntAAV4SignOMa
 $S6BigIntAAV4SignOwui
@@ -1197,7 +1197,7 @@ _$Ss13_StringObjectV8_VariantOWOe
 _$S6BigInt6primesSaySuGvp
 _$S6BigInt12pseudoPrimesSayAA0A4UIntVGvp
 _$Ss23_ContiguousArrayStorageCy6BigInt0D4UIntVGML
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Prime Test.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Prime Test.swift
 $S6BigIntAAVWOs
 $S6BigIntAAVWOr
 isPrime
@@ -1229,7 +1229,7 @@ _$Ss20_ArrayBufferProtocolPsE22_arrayOutOfPlaceUpdateyys011_ContiguousaB0Vy7Elem
 _$Ss20_ArrayBufferProtocolPsE23_arrayOutOfPlaceReplace_4with5countySnySiG_qd__Sits10CollectionRd__7ElementQyd__AHRtzlFs01_aB0VySuG_s05EmptyK0VySuGTg5Tf4xdnn_n
 _$Ss20_ArrayBufferProtocolPsE20_arrayAppendSequenceyyqd__s0F0Rd__7ElementQyd__AERtzlFs01_aB0VySuG_s08IteratorF0Vys08IndexingH0Vy6BigInt0J4UIntV5WordsVGGTg5Tf4xn_n
 _$S6BigIntAAVyABxcs19BinaryFloatingPointRzlufCTf4gn_n
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Floating Point Conversion.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Floating Point Conversion.swift
 Floating Point Conversion.swift
 $Ss20_ArrayBufferProtocolPsE20_arrayAppendSequenceyyqd__s0F0Rd__7ElementQyd__AERtzlFs01_aB0VySuG_s08IteratorF0Vys08IndexingH0Vy6BigInt0J4UIntV5WordsVGGTg5
 $Ss20_ArrayBufferProtocolPsE20_arrayAppendSequenceyyqd__s0F0Rd__7ElementQyd__AERtzlFs01_aB0VySuG_s08IteratorF0Vys08IndexingH0Vy6BigInt0J4UIntV5WordsVGGTg5Tf4xn_n
@@ -1260,7 +1260,7 @@ _$S6BigInt0A4UIntV7SipHash0D8HashableAAWp
 _$S6BigInt0A4UIntV7SipHash0D8HashableAAWG
 _$S6BigIntAAV7SipHash0C8HashableAAWp
 _$S6BigIntAAV7SipHash0C8HashableAAWG
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Hashable.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Hashable.swift
 $S6BigInt0A4UIntV7SipHash0D8HashableAAWI
 $S6BigIntAAV7SipHash0C8HashableAAWa
 $S6BigInt0A4UIntV7SipHash0D8HashableAAWa
@@ -1272,7 +1272,7 @@ _$S6BigInt0A4UIntV21greatestCommonDivisor4withA2C_tFTf4xx_n
 _$S6BigInt0A4UIntV7inverseyACSgACFTf4xx_n
 _$S6BigInt0A4UIntVSgWOs
 _$S6BigInt0A4UIntVSgWOe
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/GCD.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/GCD.swift
 $S6BigInt0A4UIntVSgWOs
 inverse
 GCD.swift
@@ -1299,7 +1299,7 @@ _symbolic s6UInt64V
 _$S6BigInt0A4UIntVs27ExpressibleByIntegerLiteralAAMA
 _symbolic s5Int64V
 _$S6BigIntAAVs27ExpressibleByIntegerLiteralAAMA
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Integer Conversion.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Integer Conversion.swift
 $SSi5WordsVSTsST22_copyToContiguousArrays0dE0Vy7ElementQzGyFTW
 $Ss32_copyCollectionToContiguousArrayys0dE0Vy7ElementQzGxs0B0RzlFSi5WordsV_Tgq5
 $SSTsE13_copyContents12initializing8IteratorQz_SitSry7ElementQzG_tFSi5WordsV_Tgq5
@@ -1422,7 +1422,7 @@ _$S6BigInt0A4UIntVs33ExpressibleByUnicodeScalarLiteralAAMA
 _$S6BigIntAAVs26ExpressibleByStringLiteralAAMA
 _$S6BigIntAAVs43ExpressibleByExtendedGraphemeClusterLiteralAAMA
 _$S6BigIntAAVs33ExpressibleByUnicodeScalarLiteralAAMA
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/String Conversion.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/String Conversion.swift
 $Ss17FixedWidthIntegerPsE19_parseASCIISlowPath9codeUnits5radixqd_0_Sgqd__z_qd_0_ts16IteratorProtocolRd__sAARd_0_s08UnsignedC07ElementRpd__r0_lFZSu_s22_UnmanagedOpaqueStringV0J0VSuTg5Tf4nnd_n
 $Ss22_UnmanagedOpaqueStringV8IteratorVStsSt4next7ElementQzSgyFTW
 $SSuSLsSL1loiySbx_xtFZTW
@@ -1594,7 +1594,7 @@ _$SSus17FixedWidthIntegerssAAP27multipliedReportingOverflow2byx12partialValue_Sb
 _$Ss17FixedWidthIntegerP6BigInt9MagnitudeSjQzRszrlE19approximateQuotient8dividing2byxx_xxt_x_xttFZSu_Tg5Tf4nnnnnd_n
 _$S6BigIntAAV7modulusyA2BFTf4xx_nTf4nndnn_n
 _$SSus35_ExpressibleByBuiltinIntegerLiteralssAAP08_builtindE0xBi2048__tcfCTW
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Division.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Division.swift
 modulus
 $SSNyxGs23BidirectionalCollectionss10StrideableRzs13SignedInteger6StrideRpzrlSK9formIndex6beforey0H0Qzz_tFTWSi_Tg5
 $SSNyxGs23BidirectionalCollectionss10StrideableRzs13SignedInteger6StrideRpzrlSK5index6before5IndexQzAJ_tFTWSi_Tg5
@@ -1642,19 +1642,19 @@ _$S6BigIntAAV12shiftedRight2byABSu_tFTf4nx_n
 _$S6BigIntAAV2ggoiyA2B_xts13BinaryIntegerRzlFZTf4xnn_n
 _$S6BigIntAAV2lloiyA2B_xts13BinaryIntegerRzlFZTf4xnn_n
 _$S6BigInt0A4UIntV2ggoiyA2C_xts13BinaryIntegerRzlFZTf4xnn_n
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Shifts.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Shifts.swift
 shiftedRight
 $SSus17FixedWidthIntegerssAAP3maxxvgZTW
 &>>=
 &>>
 &<<=
 &<<
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Subtraction.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Subtraction.swift
 decrement
 subtractingReportingOverflow
 _$SSTsE13_copyContents12initializing8IteratorQz_SitSry7ElementQzG_tFs8RepeatedVySuG_Tg5
 _$S6BigInt0A4UIntV14multiplyAndAdd__9shiftedByyAC_SuSitFTf4xnnn_n
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Multiplication.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Multiplication.swift
 multiplyAndAdd
 multiplied
 multipliedFullWidth
@@ -1702,7 +1702,7 @@ _symbolic $Ss10StrideableP
 _symbolic s5NeverO
 _$S6BigInt0A4UIntVSxAAMA
 _$S6BigIntAAVSxAAMA
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Strideable.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Strideable.swift
 $S6BigIntAAVSQAAWa
 $S6BigIntAAVSxAAWI
 $S6BigIntAAVABSLAAWl
@@ -1715,7 +1715,7 @@ advanced
 Strideable.swift
 _step
 _$S6BigInt0A4UIntV10squareRootACyFTf4x_n
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Square Root.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Square Root.swift
 squareRoot
 Square Root.swift
 _$S6BigInt0A4UIntV9serialize10Foundation4DataVyFySpys5UInt8VGXEfU_
@@ -1724,7 +1724,7 @@ _$SSuSQsSQ2eeoiySbx_xtFZTW
 _$S6BigInt0A4UIntV9serialize10Foundation4DataVyFySpys5UInt8VGXEfU_TA
 _$SSpys5UInt8VGs5Error_pIgyzo_ACytsAD_pIegyrzo_TRTA
 _symbolic Spys5UInt8VGs5Error_pIgyzo_
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Data Conversion.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Data Conversion.swift
 $SSpys5UInt8VGs5Error_pIgyzo_ACytsAD_pIegyrzo_TRTA
 $SSpys5UInt8VGs5Error_pIgyzo_ACytsAD_pIegyrzo_TR
 $S6BigInt0A4UIntV9serialize10Foundation4DataVyFySpys5UInt8VGXEfU_TA
@@ -1751,7 +1751,7 @@ _$S6BigInt0A4UIntVSLAAWr
 _$S6BigInt0A4UIntVSQAAWp
 _$S6BigInt0A4UIntVSQAAWG
 _$S6BigInt0A4UIntVSQAAWr
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Comparable.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Comparable.swift
 $S6BigInt0A4UIntVSQAAWa
 $S6BigInt0A4UIntVSLAAWI
 $S6BigInt0A4UIntVSLAAWa
@@ -1922,7 +1922,7 @@ _$S6BigInt5UnitsVyxq_GSlAAMA
 _$S6BigInt5UnitsVyxq_GSKAAMA
 _$S6BigInt5UnitsVyxq_GSkAAMA
 _$S6BigInt5UnitsVyxq_GSTAAMA
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Codable.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Codable.swift
 $S6BigInt5UnitsVyxq_GSTAA11SubSequence_STWT
 $S6BigInt5UnitsVyxq_GSTAA8Iterator_StWT
 $S6BigInt5UnitsVyxq_GSTAA11SubSequenceWt
@@ -1980,7 +1980,7 @@ $Ss11_StringGutsV19_unmanagedASCIIViews010_UnmanagedA0Vys5UInt8VGvgTf4x_n
 _customLastIndexOfEquatableElement
 _$Ss6UInt64V5WordsVSTsST12makeIterator0D0QzyFTW
 _$S6BigInt0A4UIntV5poweryACSiFTf4nx_n
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Exponentiation.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Exponentiation.swift
 Exponentiation.swift
 $Ss6UInt64V5WordsVSTsST12makeIterator0D0QzyFTW
 _$S6BigIntAAV2aeoiyyABz_ABtFZTm
@@ -1989,7 +1989,7 @@ _$Ss15ContiguousArrayV15reserveCapacityyySiFSu_Tg5
 _$Ss15ContiguousArrayV16_copyToNewBuffer8oldCountySi_tFSu_Tg5
 _$Ss20_ArrayBufferProtocolPsE025_forceCreateUniqueMutableB0011countForNewB003minJ8Capacitys011_ContiguousaB0Vy7ElementQzGSi_SitFAGySuG_Tg5
 _$Ss20_ArrayBufferProtocolPsE22_arrayOutOfPlaceUpdateyys011_ContiguousaB0Vy7ElementQzGz_S2iqd__ts16_PointerFunctionRd__AFQyd__AGRSlFAEySuG_s07_IgnoreK0VySuGTg5Tf4nnndn_n
-/Users/imacdev/Project/Wallet_core/wallet/Carthage/Checkouts/BigInt/sources/Bitwise Ops.swift
+/Users/imacdev/Project/Wallet_CNUS/wallet/Carthage/Checkouts/BigInt/sources/Bitwise Ops.swift
 ^
 ^=
 $Ss15ContiguousArrayV6appendyyxFSu_Tg5
